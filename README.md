@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shakqasg
 - 👀 I’m interested in anything related to development and testing
-- 🌱 I’m currently learning ruby/rails/capybara/rspec
+- 🌱 I’m currently learning ruby/rails/capybara/rspec/JavaScript/WDIO
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shakilahmod01@gmail.com
 
